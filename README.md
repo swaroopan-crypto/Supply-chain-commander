@@ -1,5 +1,7 @@
 # Supply Chain Commander: Inventory Shortage Predictor
 
+![Inventory Risk Dashboard](inventory_risk_dashboard.png)
+
 ## Business Problem
 Retail companies lose millions when popular items go out of stock. Beyond immediate lost sales, out-of-stock items damage customer loyalty and brand reputation.
 
